@@ -1,0 +1,11 @@
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.deps.json
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.runtimeconfig.json
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.runtimeconfig.dev.json
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.dll
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.pdb
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.csprojAssemblyReference.cache
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.AssemblyInfo.cs
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.dll
+/Users/jimmy/Projects/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.pdb
